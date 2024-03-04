@@ -6,4 +6,4 @@ __pycache__/
 *.py[cod]
 node_modules/
 .github/
-lovesandwiches-414817-a5741bcc31d6.json
+creds.json
